@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2>Hi There! I'm Sajad Zolfaghari 🖐</h2>
 
-<!--
-**sajadzolfaghari/sajadzolfaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>^_^ &nbsp; About Me</h3>
 
-Here are some ideas to get you started:
+- 🧑‍💻 &nbsp; I'm a junior frontend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>🔧 &nbsp; Tech Stack</h2>
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<br />
+
+<h2>⚡️ &nbsp; Github Stats</h2>
+
+<a href="https://github.com/sajadzolfaghari">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadzolfaghari" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadzolfaghari&show_icons=true&theme=radical" />
+</a>
+
+
+<br>
+<br>
+
+<img src="code.gif">
