@@ -16,6 +16,8 @@
 
 <a href="https://github.com/sajadzolfaghari">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadzolfaghari" />
+  <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sajadzolfaghari&show_icons=true&theme=radical" />
 </a>
 
