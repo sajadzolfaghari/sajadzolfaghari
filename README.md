@@ -14,15 +14,13 @@
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/sajadzolfaghari">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadzolfaghari" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sajadzolfaghari&show_icons=true&theme=radical" />
-</a>
-
-
+</p>
 <br>
-<br>
-
+<p align="center">
 <img src="https://github.com/sajadzolfaghari/sajadzolfaghari/blob/main/code.gif">
+</p>
